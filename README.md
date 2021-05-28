@@ -1,4 +1,4 @@
-# DEMOP Project README
+# DEMO Project README
 
 This is a simple readme file
 
